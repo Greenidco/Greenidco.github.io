@@ -1,0 +1,237 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>داکت</title>
+    <meta name="generator" content="Serif WebPlus X7">
+    <meta name="viewport" content="width=900">
+    <meta name="keywords" content="طراحی ,داکتینگ هوای گرم , پری هیتر, preheater,duct furmula,design duct,duct design,duct calculation ,duct furmula, تحلیل حرارتی داکت , heat analyse,force analyse,طراحی داکتینگ,سیستم داکتینگ,فورمول داکتینگ,تجهیزات داکتینگ,نرم افزار طراحی داکتینگ,طراحی پریهیتر,دپارتمان پیش گرمکن,فورمول پریهیتر,تجهیزات پریهیتر,اکپنشن جوینت, Grate Cooler , Rotary Kiln , belt conveyor, apron conveyor , pan conveyor,' screw conveyor, bucket elevator , fuel oil handeling ,  bag filter , air slid , raw mill silo , duct ,  fan , silencer , hammer crusher , گریت کولر  , کوره دوار  ,  نوار نقاله ,  بلت کانوایر  ,  اپرون کانوایر   ,   اسکرو کانوایر  ,  باکت الواتور , الواتور , انتقال سوخت  , بگ فیلتر , ایر اسلاید , سیلوی مواد  ,  فن ,  صداخفه کن ,  سنگ شکن چکشی ,  کلینکر کراشر,طراحی , ساخت ,نصب,تحلیل,analyse,طراحی ماشین آلات صنعتی,سیستم های هیدرولیک خاص,نظارت بر ساخت , مشاوره خرید تجهیزات صنعتی,مشاوره,نظارت بر ساخت,نظارت بر نصب,WHITE CEMENT,Special cements,سیمان, سیمان سفید,سیمان نفتی,سیمانهای خاص,Portland cement,سیمان پرتلند,cement manufacturing operation,cement operation,cement manufacturing,limestone,فلوشیت کارخانه سیمان,فلوشیت کارخانه اهک,معدن,cement,lime,flow sheet,Kiln Drive,Kiln Sealing,Kiln Support roller">
+    <meta name="description" content="duct">
+    <meta name="robots" content="index,follow">
+    <link rel="stylesheet" type="text/css" href="wpstyles.css">
+    <link rel="stylesheet" type="text/css" href="nav_377style.css">
+    <link rel="stylesheet" type="text/css" href="nav_171style.css">
+    <style type="text/css">
+      .OBJ-1,.OBJ-1:link,.OBJ-1:visited { background-image:url('../wpimages/wpdebaab05_1a.png');background-repeat:no-repeat;background-position:0px 0px;text-decoration:none;display:block;position:absolute; }
+      .OBJ-1:hover { background-position:0px -66px; }
+      .OBJ-1:active,a:link.OBJ-1.Activated,a:link.OBJ-1.Down,a:visited.OBJ-1.Activated,a:visited.OBJ-1.Down,.OBJ-1.Activated,.OBJ-1.Down { background-position:0px -33px; }
+      .OBJ-1.Disabled,a:link.OBJ-1.Disabled,a:visited.OBJ-1.Disabled,a:hover.OBJ-1.Disabled,a:active.OBJ-1.Disabled { background-position:0px -99px; }
+      .OBJ-1:focus { outline-style:none; }
+      button.OBJ-1 { background-color:transparent;border:none 0px;padding:0;display:inline-block; }
+      .OBJ-1.Inline { display:inline-block;position:relative;line-height:normal; }
+      .OBJ-2,.OBJ-2:link,.OBJ-2:visited { background-image:url('../wpimages/wpfb48776c_1a.png');background-repeat:no-repeat;background-position:0px 0px;text-decoration:none;display:block;position:absolute; }
+      .OBJ-2:hover { background-position:0px -66px; }
+      .OBJ-2:active,a:link.OBJ-2.Activated,a:link.OBJ-2.Down,a:visited.OBJ-2.Activated,a:visited.OBJ-2.Down,.OBJ-2.Activated,.OBJ-2.Down { background-position:0px -33px; }
+      .OBJ-2.Disabled,a:link.OBJ-2.Disabled,a:visited.OBJ-2.Disabled,a:hover.OBJ-2.Disabled,a:active.OBJ-2.Disabled { background-position:0px -99px; }
+      .OBJ-2:focus { outline-style:none; }
+      button.OBJ-2 { background-color:transparent;border:none 0px;padding:0;display:inline-block; }
+      .OBJ-2.Inline { display:inline-block;position:relative;line-height:normal; }
+      .P-1 { text-align:left;line-height:17.00px;margin-top:8.0px;margin-bottom:8.0px;font-style:italic;font-weight:700;color:#000000;font-size:13.3px; }
+      .P-1:first-child { margin-top:0; }
+      .P-2 { text-align:left;font-family:"IranNastaliq", serif;color:#0f243e;font-size:16.0px;letter-spacing:-1.50px; }
+      .P-3 { text-align:left;line-height:17.00px;margin-top:8.0px;margin-bottom:8.0px;font-style:italic;color:#000000;font-size:13.3px; }
+      .P-3:first-child { margin-top:0; }
+      .C-1 { font-family:"Times New Roman", serif;color:#000000; }
+      .C-2 { font-family:"Times New Roman", serif;color:#cdcdcd; }
+      .P-4 { text-align:left;line-height:16.00px;font-family:"Arial", sans-serif;color:#000000;font-size:13.3px; }
+      a.C-3:link { color:#000000;text-decoration:none; }
+      a.C-3:visited { color:#000000;text-decoration:none; }
+      a.C-3:hover { color:#ff0000;text-decoration:none; }
+      a.C-3:active { color:#ff0000;text-decoration:none; }
+      .P-5 { line-height:23.00px;color:#000000; }
+      .C-4 { font-family:"Arial", sans-serif;font-style:italic;color:#233341;font-size:40.0px; }
+      .P-6 { text-align:right;line-height:30.00px;font-family:"B Zar", serif;color:#000000; }
+      .P-7 { line-height:30.00px;font-family:"B Zar", serif;color:#000000; }
+      .C-5 { color:#000000; }
+      .P-8 { text-align:right;font-family:"B Zar", serif;color:#000000; }
+      .C-6 { font-family:"B Zar", serif;color:#000000; }
+      .C-7 { color:#0f0f0f; }
+      a.C-8:link { color:#393939;text-decoration:none; }
+      a.C-8:visited { color:#a3a3a3;text-decoration:none; }
+      a.C-8:hover { color:#ff0000;text-decoration:none; }
+      a.C-8:active { color:#ff0000;text-decoration:none; }
+      .C-9 { color:#070707; }
+    </style>
+    <script type="text/javascript" src="jsNavBarFuncs.js"></script>
+    <script type="text/javascript" src="wp_navbar_textmenu.js"></script>
+    <script type="text/javascript" src="nav_377tree.js"></script>
+    <script type="text/javascript" src="nav_171tree.js"></script>
+    <script type="text/javascript" src="jquery.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+      $("a.ActiveButton").bind({ mousedown:function(){$(this).addClass('Activated');}, mouseleave:function(){ $(this).removeClass('Activated');}, mouseup:function(){$(this).removeClass('Activated');}});
+      });
+    </script>
+    <link rel="icon" href="../favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35959759-1']);
+  _gaq.push(['_setDomainName', 'greenid.ir']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+  </head>
+  <body style="height:1858px;background:#ffffff url('../wpimages/wp52831e87_1a.png') repeat-x scroll center top;">
+    <div id="divMain" style="background:transparent;margin-left:auto;margin-right:auto;position:relative;width:900px;height:1858px;">
+      <img alt="Design, Engineering, Manufacturing and Installation Co." src="../wpimages/wp13aee922_1a.png" id="art_2" style="position:absolute;left:12px;top:99px;width:568px;height:30px;">
+      <map id="map1" name="map1">
+        <area shape="rect" coords="13,40,245,75" href="../" alt="" title="">
+        <area shape="rect" coords="11,0,246,42" href="../" alt="" title="">
+      </map>
+      <img alt="greenid" title="greenid" usemap="#map1" src="../wpimages/wp3f23fe05_1a.png" id="txt_1205" style="position:absolute;left:0px;top:6px;width:257px;height:94px;">
+      <script type="text/javascript" id="nav_377_script">
+        try {
+        var navtree_nav_377 = WpNavBar.getNavTreeCustom( nav_377tree, {'m_sThisPageUrl':'wpscripts/Greenid Duct.html',
+'m_sNavBarTarget':'_self',
+'m_bFlash':false,
+'m_bIncludeChildren':true,
+'m_bIsCustom':true} );
+        if( !navtree_nav_377 ) throw WpNavBar.getErrorObj( 'Link tree could not be read' );
+        var nav_377 = new wp_navbar_textmenu("nav_377", navtree_nav_377, {'m_bPopupBelow':1,'m_bPopupRight':1,'m_iTimeOut':500,'m_iPopupAlignmentH':0,'m_sId':'nav_377',
+'m_sScriptId':'nav_377_script',
+'m_iLeft':255,
+'m_iTop':17,
+'m_sCssClass':'nav_377style',
+'m_iWidth':647,
+'m_iHeight':31}, {'m_iMaxCssLevel':1,
+top:{'m_sPrefix':' ','m_sSpacerText':'   |   ','m_sPostfix':' ','m_bNumbersOnly':false,
+link:{'m_sPrefix':' ','m_sPostfix':' '}},
+level1:{'m_bFirstPopupSameSize':true,'m_iMinWidth':100,'m_iFirstPopupOffset':10,'m_iInterPopupOffset':5,'m_iOpacity':100,'m_bFade':true,'m_iFadeSpeed':10,
+separator:{'m_bAllowSeparators':false}}});
+        } catch(e){
+        document.write( '<div style="position:absolute;left:255;top:17;width:647;height:31">There was an error generating the navbar:<br>' + e.message + '<\/div>' );
+        }
+      </script>
+      <noscript>
+      <div class="nav_377style" id="nav_377" style="left: 255px; top: 17px; width: 647px; height: 31px; position: absolute;"> <a id="nav_377_I0" href=".././" target="_self"> Home </a>   |   <a id="nav_377_I1" href="about us.html" target="_self"> Purposes </a>   |   <a id="nav_377_I2" href="Download.html" target="_self"> Download </a>   |   <a id="nav_377_I3" href="greenid product.html" target="_self"> Products </a>   |   <a id="nav_377_I4" href="education.html" target="_self"> Education </a>   |   <a id="nav_377_I5" href="CERTIFICATES.html" target="_self"> Certificates </a>   |   <a id="nav_377_I6" href="contact us.html" target="_self"> Contact Us </a> </div>
+
+      </noscript>
+      <script type="text/javascript" id="nav_171_script">
+        try {
+        var navtree_nav_171 = WpNavBar.getNavTreeCustom( nav_171tree, {'m_sThisPageUrl':'wpscripts/Greenid Duct.html',
+'m_sNavBarTarget':'_self',
+'m_bFlash':false,
+'m_bIncludeChildren':true,
+'m_bIsCustom':true} );
+        if( !navtree_nav_171 ) throw WpNavBar.getErrorObj( 'Link tree could not be read' );
+        var nav_171 = new wp_navbar_textmenu("nav_171", navtree_nav_171, {'m_bPopupBelow':1,'m_bPopupRight':1,'m_iTimeOut':500,'m_iPopupAlignmentH':0,'m_sId':'nav_171',
+'m_sScriptId':'nav_171_script',
+'m_iLeft':0,
+'m_iTop':169,
+'m_sCssClass':'nav_171style',
+'m_iWidth':900,
+'m_iHeight':28}, {'m_iMaxCssLevel':1,
+top:{'m_sPrefix':' ','m_sSpacerText':'   |   ','m_sPostfix':' ','m_bNumbersOnly':false,
+link:{'m_sPrefix':' ','m_sPostfix':' '}},
+level1:{'m_bFirstPopupSameSize':false,'m_iMinWidth':100,'m_iFirstPopupOffset':10,'m_iInterPopupOffset':5,'m_iOpacity':100,'m_bFade':false,'m_iFadeSpeed':10,
+separator:{'m_bAllowSeparators':false}}});
+        } catch(e){
+        document.write( '<div style="position:absolute;left:0;top:169;width:900;height:28">There was an error generating the navbar:<br>' + e.message + '<\/div>' );
+        }
+      </script>
+      <noscript>
+      <div class="nav_377style" id="nav_377" style="left: 255px; top: 17px; width: 647px; height: 31px; position: absolute;"> <a id="nav_377_I0" href=".././" target="_self"> Home </a>   |   <a id="nav_377_I1" href="about us.html" target="_self"> Purposes </a>   |   <a id="nav_377_I2" href="Download.html" target="_self"> Download </a>   |   <a id="nav_377_I3" href="greenid product.html" target="_self"> Products </a>   |   <a id="nav_377_I4" href="education.html" target="_self"> Education </a>   |   <a id="nav_377_I5" href="CERTIFICATES.html" target="_self"> Certificates </a>   |   <a id="nav_377_I6" href="contact us.html" target="_self"> Contact Us </a> </div>
+
+      </noscript>
+      <form id="site_search" onsubmit="return false;" style="position:absolute;left:412px;top:67px;width:304px;height:22px;margin:0;padding:0;">
+        <input type="text" id="site_search_input" name="site_search_input" onkeypress="if (event.keyCode==13) window.location.href='../Search.html?site_search_results_0='+document.getElementById('site_search_input').value+'&amp;depth=0';" style="width:211px;">
+        <div style="display:inline;"><input type="button" value="Search" onclick="window.location.href='../Search.html?site_search_results_0='+document.getElementById('site_search_input').value+'&amp;depth=0';" style="width:83px;"></div>
+      </form>
+      <a href="https://www.linkedin.com/company/greenid-co/" target="_blank" id="btn_23" class="OBJ-1 ActiveButton" style="position:absolute;left:770px;top:1763px;width:47px;height:33px;"></a>
+      <a href="https://twitter.com/GreenidCo" target="_blank" id="btn_24" class="OBJ-2 ActiveButton" style="position:absolute;left:841px;top:1764px;width:52px;height:33px;"></a>
+      <div id="txt_1374" style="position:absolute;left:570px;top:1779px;width:201px;height:75px;overflow:hidden;">
+        <p class="Normal P-1">Tel &amp; Fax : &nbsp;&nbsp;&nbsp;+98-21-44036728</p>
+        <p class="Normal P-1">Cell phone : &nbsp;&nbsp;+98-912-2262366</p>
+        <p class="Normal P-1">Email : &nbsp;INFO@GREENID.IR</p>
+        <p class="Normal P-2"><br></p>
+      </div>
+      <div id="txt_1375" style="position:absolute;left:327px;top:1779px;width:235px;height:76px;overflow:hidden;">
+        <p class="Normal P-3">GREENID CO</p>
+        <p class="Normal P-3">Unit 5, No.5,Sharifi St.,Behnam St.,</p>
+        <p class="Normal P-3">&nbsp;Kashani Blvd, &nbsp;Tehran , Iran</p>
+      </div>
+      <img alt="" src="../wpimages/wp63a74814_1a.png" id="img_188" style="position:absolute;left:566px;top:1779px;width:1px;height:71px;">
+      <div id="txt_30" style="position:absolute;left:767px;top:1830px;width:126px;height:20px;overflow:hidden;">
+        <p class="Fine-Print C-1">©Copyright by GREENID<span class="Placeholder C-2"></span></p>
+      </div>
+      <map id="map2" name="map2">
+        <area shape="poly" coords="42,40,34,20,18,20,26,40,18,60,34,60" title="">
+        <area shape="rect" coords="0,0,317,82" href="contact%20us.html" alt="" title="">
+      </map>
+      <img src="../wpimages/wp71e93a79_1a.png" alt="" width="316" height="81" usemap="#map2" style="position:absolute;left:4px;top:1773px;width:316px;height:81px;">
+      <div id="txt_1377" style="position:absolute;left:55px;top:1798px;width:269px;height:45px;overflow:hidden;">
+        <p class="Normal3 P-4"><a href="contact%20us.html" class="C-3">Any questions concerting our services?</a></p>
+        <p class="Normal3 P-4"><a href="contact%20us.html" class="C-3">Contact Us now</a></p>
+      </div>
+      <div id="txt_1378" style="position:absolute;left:788px;top:1805px;width:88px;height:25px;overflow:hidden;">
+        <p class="Normal3 P-5"><a href="http://www.greenid.ir/sitemap.html" target="_blank" class="C-3">Site Map</a></p>
+      </div>
+      <img alt="" src="../wpimages/wpac067d79_1a.png" id="img_192" style="position:absolute;left:24px;top:1773px;width:726px;height:1px;">
+      <img alt="پیشگرم اهک" title="fluent heat analyse" src="../wpimages/wpe4d7ab6f_1a.png" id="pic_132" style="position:absolute;left:40px;top:1208px;width:202px;height:317px;">
+      <map id="map3" name="map3">
+        <area shape="poly" coords="102,525,106,524,114,521,117,520,125,525,133,522,136,517,138,504,136,494,131,488,131,484,130,473,127,464,128,457,132,444,133,437,135,429,139,419,144,410,150,403,156,397,162,391,167,382,169,376,168,368,165,361,165,350,166,340,166,328,171,319,174,309,175,303,176,287,175,272,172,262,168,257,164,253,160,250,152,244,151,238,151,212,157,204,156,194,154,188,152,181,156,183,163,192,170,203,180,228,183,245,190,249,198,247,202,238,209,212,213,203,218,195,223,188,228,184,236,176,239,171,243,161,242,153,239,145,239,138,240,125,243,116,251,108,255,102,256,94,256,86,257,76,257,67,255,52,253,46,248,37,244,33,236,28,232,26,215,22,208,22,198,20,194,18,185,18,181,20,171,24,155,32,149,40,147,45,146,51,144,58,144,66,137,59,137,51,133,38,126,31,120,26,102,7,95,3,85,0,77,0,69,6,56,12,51,15,46,19,37,23,33,27,29,34,6,84,6,142,5,152,2,157,0,164,1,171,3,178,6,185,6,325,1,336,0,343,3,352,6,356,12,360,19,364,25,366,45,366,58,363,58,372,56,379,58,389,60,393,71,404,74,413,74,427,75,442,78,457,78,518,91,525,99,526">
+        <area shape="rect" coords="105,78,410,503">
+      </map>
+      <img src="../wpimages/wped9e8380_1a.png" alt="" width="409" height="571" usemap="#map3" style="position:absolute;left:24px;top:420px;width:409px;height:571px;">
+      <div id="txt_823" style="position:absolute;left:68px;top:373px;width:344px;height:71px;overflow:hidden;">
+        <p class="Normal3 C-4">DUCT Design</p>
+        <p class="Normal"><br></p>
+      </div>
+      <div id="txt_825" style="position:absolute;left:472px;top:814px;width:362px;height:181px;overflow:hidden;">
+        <p class="Normal P-6">با توجه به اين مطلب كه طراحي به صورت سه بعدي مي باشد امكان ارائه تحليل نيرو و حرارت ( خصوصاً جهت داکینگ هوای گرم ) در صورت نياز امكان پذير است</p>
+        <p class="Normal P-7"><br></p>
+      </div>
+      <div id="txt_824" style="position:absolute;left:460px;top:430px;width:386px;height:420px;overflow:hidden;">
+        <p class="Normal P-6">در طراحي داکت با توجه به این موضوع که کارشناسان این شرکت دارای سابقه در صنايع مختلف از جمله سيمان ، فولاد ، صنايع معدني هستند مغایرتهای احتمالی که ممکن است بر اثر عدم شناخت صحیح پرسه کارکرد کارخانه به وجود آید از بین میرود</p>
+        <p class="Normal P-6">كليه نقشه های داکت با نرم افزار طراحي به صورت سه بعدي ارائه شده است (اين مطلب جهت كليه قطعات استاندارد نيز صادق است) اين مشخصه خاص شركت گرين مي باشد كه در تمامي نقشه ها نماي سه بعدي جهت تصوري دقيق تر از اجزاء ارائه شده است</p>
+        <p class="Normal P-7"><br></p>
+      </div>
+      <div id="txt_826" style="position:absolute;left:45px;top:1050px;width:805px;height:168px;overflow:hidden;">
+        <p class="Normal3 P-6">شرکت عرصه صنعت گرین با توجه به دارا بودن نقشه ها و اطلاعات فنی شرکت های معتبر در زمینه دپارتمان پیش گرمکن و همچنین نظارت بر ساخت و نصب پریهیتر و داکتینگ هوای گرم توانایی مهندسی معکوس پری هیتر را داشته و این شرکت اماده ارائه خدمات جهت طراحی پریهیتر و ساخت تجهیزات لازم در دپارتمان پیش گرم در صنعت سیمان و صنایع مشابه است</p>
+        <p class="Normal C-5"><br></p>
+      </div>
+      <div id="txt_827" style="position:absolute;left:493px;top:1283px;width:360px;height:323px;overflow:hidden;">
+        <p class="Normal P-8">در طراحي داکتینگ محل هاي مورد نياز جهت بازديد اپراتور بصورت صحيح ، با ايمني بيشتر و با در نظر گرفتن نوع بازديد ارائه شده است</p>
+        <p class="Normal P-8">ايمني زياد در طراحي داکت صورت گرفته امكان بروز حادثه را تا حد صفر پايين مي آورد </p>
+        <p class="Normal C-6"><br></p>
+      </div>
+      <img alt="ansyse" title="ansyse" src="../wpimages/wp30e63adc_1a.png" id="pic_131" style="position:absolute;left:321px;top:1275px;width:165px;height:189px;">
+      <map id="map4" name="map4"><area shape="poly" coords="167,120,170,113,178,117,187,115,192,111,194,106,196,100,199,93,199,81,192,76,185,73,179,67,171,64,163,65,151,60,142,56,137,55,120,46,117,39,124,34,122,27,124,22,124,16,123,10,117,3,110,0,101,0,94,5,90,9,88,18,89,27,86,37,80,39,67,39,50,37,41,34,33,34,23,37,17,46,17,50,19,60,27,66,28,68,27,74,33,77,41,71,48,67,71,69,78,71,87,74,95,80,102,84,107,87,120,93,128,97,136,100,144,102,146,104,143,108,155,114,156,115,154,119,163,122"></map>
+      <img alt="catia" usemap="#map4" src="../wpimages/wp3eacc470_1a.png" id="pic_133" style="position:absolute;left:233px;top:1208px;width:199px;height:148px;">
+      <map id="map5" name="map5"><area shape="poly" coords="135,163,135,143,134,131,140,123,146,119,150,112,151,109,151,95,145,82,136,65,131,59,131,34,128,1,117,0,33,0,35,9,37,14,38,20,39,32,39,55,40,63,36,71,32,78,31,86,29,91,25,98,22,107,25,117,31,125,39,131,43,138,43,157,44,170,44,181,136,181"></map>
+      <img alt="catia" usemap="#map5" src="../wpimages/wp766a5a17_1a.png" id="pic_134" style="position:absolute;left:251px;top:1321px;width:151px;height:206px;">
+      <map id="map6" name="map6"><area shape="rect" coords="4,0,168,79" href="greenid%20grate%20cooler.html" alt="" title=""></map>
+      <img alt="طراحی کولر" usemap="#map6" src="../wpimages/wpbac9b900_1a.png" id="pic_296" style="position:absolute;left:545px;top:244px;width:171px;height:134px;">
+      <map id="map7" name="map7"><area shape="rect" coords="0,0,154,85" href="F%20Rotary%20Kiln.html" alt="" title=""></map>
+      <img alt="طراحی کوره" usemap="#map7" src="../wpimages/wpe8d3673c_1a.png" id="pic_336" style="position:absolute;left:200px;top:244px;width:153px;height:126px;">
+      <div id="txt_819" style="position:absolute;left:232px;top:213px;width:133px;height:29px;overflow:hidden;">
+        <p class="Normal3 C-7"><a href="Rotary%20Kiln.html" class="C-8">Rotary Kiln</a></p>
+        <p class="Normal"><br></p>
+      </div>
+      <div id="txt_820" style="position:absolute;left:548px;top:211px;width:165px;height:33px;overflow:hidden;">
+        <p class="Normal3 C-9"><a href="greenid%20grate%20cooler.html" class="C-8">Grate Cooler</a></p>
+        <p class="Normal"><br></p>
+      </div>
+      <map id="map8" name="map8"><area shape="rect" coords="4,0,168,79" href="greenid%20grate%20cooler.html" alt="" title=""></map>
+      <img alt="خنک کننده" usemap="#map8" src="../wpimages/wpbac9b900_1a.png" id="pic_912" style="position:absolute;left:535px;top:1638px;width:171px;height:134px;">
+      <map id="map9" name="map9"><area shape="rect" coords="0,0,154,85" href="F%20Rotary%20Kiln.html" alt="" title=""></map>
+      <img alt="طراحی کوره" usemap="#map9" src="../wpimages/wpf844d054_1a.png" id="pic_913" style="position:absolute;left:189px;top:1638px;width:153px;height:126px;">
+      <div id="txt_1351" style="position:absolute;left:222px;top:1607px;width:133px;height:29px;overflow:hidden;">
+        <p class="Normal3 C-7"><a href="Rotary%20Kiln.html" class="C-8">Rotary Kiln</a></p>
+        <p class="Normal"><br></p>
+      </div>
+      <div id="txt_1352" style="position:absolute;left:538px;top:1605px;width:165px;height:33px;overflow:hidden;">
+        <p class="Normal3 C-9"><a href="greenid%20grate%20cooler.html" class="C-8">Grate Cooler</a></p>
+        <p class="Normal"><br></p>
+      </div>
+    </div>
+  </body>
+</html>
