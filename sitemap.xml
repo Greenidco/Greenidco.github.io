@@ -1,478 +1,562 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-   <url>
-      <loc>http://www.greenid.ir/index.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/about us.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Download.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/greenid product.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/cooler.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/greenid grate cooler.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Hammer crusher.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F Hammer crusher.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/hydraulic drives .html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F hydraulic drives .html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F Grate Cooler.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Submerged Scraper Chain.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/kiln.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Rotary Kiln.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Kiln Support roller.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F Kiln Support roller.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Kiln Sealing.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F Kiln Sealing.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Kiln Drive.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F Kiln Drive.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F Rotary Kiln.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Bulk Silo.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/High Capacity Silo.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F High Capacity Silo.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/conventional Cone Silo.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F conventional Cone Silo.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Steel Silo.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F Steel Silo.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Handling system.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Reclaimer.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F reclimer.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/greenid belt conveyor.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F Belt Conveyor.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Greenid Bucket Elevator.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F Bucket Elevator.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/greenid Pneumatic Conveyor.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F Pneumatic Conveyor.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Greenid Screw Conveyor.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F Screw Conveyor.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Apron Conveyor.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F Apron Conveyor.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Air cleaning.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/horizontal scrubber.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F horezental scrubber.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/vertical scrubber.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F vertical scrubber.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Greenid Dust Collector.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F Greenid Dust Collector.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Separator classifire .html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F Separator classifire.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Silencer.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Fan &amp; Silencer.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F Fan &amp; Silencers.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/steam silencer.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F steam silencer.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Compressor Silencer.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F Compressor Silencer.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Flue gas Silencer.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/F Flue gas Silencer.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/General Engineering.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Greenid Utility.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Greenid Duct.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Greenid Steel structure.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Reverse engineering.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/electrowinning.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/small screen.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/wedge screen.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/education.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Artical p2.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Article p3.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Artical p4.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Artical p5.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Artical p6.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/standard p1.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/Search.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/CERTIFICATES.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/Grate cooler Assessment.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/contact us.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>never</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.greenid.ir/wpscripts/m.Contact us.html</loc>
-      <lastmod>2022-09-06T11:06:24+04:30</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://greenid.ir/</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/about%20us.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Download.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/greenid%20product.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/education.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/CERTIFICATES.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/contact%20us.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/cooler.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/kiln.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Bulk%20Silo.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Handling%20system.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Air%20cleaning.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Silencer.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/General%20Engineering.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Reverse%20engineering.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/greenid%20grate%20cooler.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Submerged%20Scraper%20Chain.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Hammer%20crusher.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Rotary%20Kiln.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Kiln%20Drive.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Kiln%20Sealing.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Kiln%20Support%20roller.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/High%20Capacity%20Silo.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/conventional%20Cone%20Silo.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Reclaimer.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/greenid%20belt%20conveyor.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Apron%20Conveyor.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Greenid%20Screw%20Conveyor.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/greenid%20Pneumatic%20Conveyor.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Greenid%20Bucket%20Elevator.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Greenid%20Utility.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/vertical%20scrubber.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/horizontal%20scrubber.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Greenid%20Dust%20Collector.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Separator%20classifire%20.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Fan%20&amp;%20Silencer.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Steel%20Silo.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Greenid%20Duct.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Greenid%20Steel%20structure.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/small%20screen.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/electrowinning.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20Fan%20&amp;%20Silencers.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/greenid%20General%20%20Catalog%20feb%202018.pdf</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20Grate%20Cooler.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/wedge%20screen.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20Compressor%20Silencer.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20High%20Capacity%20Silo.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20reclimer.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Grate%20cooler%20Assessment.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/greenid%20grate%20cooler%20feb%202018.pdf</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/greenid%20Rotary%20Kiln%20feb%202018.pdf</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/greenid%20Silencer%20feb%202018.pdf</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/steam%20silencer.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Compressor%20Silencer.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Flue%20gas%20Silencer.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/1article%20%20green.pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/2GREENID%20airlift.pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/3GREENID%20airlift%20(1).pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/4GREENID%20airlift%20(2).pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Artical%20p2.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Article%20p3.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Artical%20p4.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Artical%20p5.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/Artical%20p6.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/standard%20p1.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20Rotary%20Kiln.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/hydraulic%20drives%20.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20Hammer%20crusher.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20Kiln%20Drive.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20Kiln%20Sealing.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20Kiln%20Support%20roller.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/greenid%20silo%20feb%202018.pdf</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20conventional%20Cone%20Silo.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/greenid%20reclaimer%20feb%202018.pdf</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20Belt%20Conveyor.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/greenid%20belt%20conveyor%20feb%202018.pdf</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20Apron%20Conveyor.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20Screw%20Conveyor.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20Pneumatic%20Conveyor.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20Bucket%20Elevator.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/greenid%20Bucket%20Elevator%20feb%202018.pdf</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20vertical%20scrubber.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20horezental%20scrubber.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20Greenid%20Dust%20Collector.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20Separator%20classifire.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20Steel%20Silo.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20Flue%20gas%20Silencer.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20steam%20silencer.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpscripts/F%20hydraulic%20drives%20.html</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/(Grate%20cooler%20Assessment)%20june%202012.pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/5GREENID%20airlift%20(3).pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/6GREENID%20belt%20conveyor.pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/7GREENID%20belt%20conveyor%20(1).pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/8GREENID%20screw%20feeders.pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/10GREENID%20WHITE%20CEMENT.pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/9GREENID%20TRANSIENT%20NATURAL%20CONVECTION.pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/11GREENID%20MODELING%20OF%20CLINKER%20COOLERS.pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/14GREENID%20Simplified%20Modeling%20of%20Clinker%20Cooling.pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/13GREENID%20A%20Self-tuning%20Fuzzy%20PID%20Control%20Method.pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/12GREENID%20PLANNING%20FOR%20CEMENT%20QUARRY%20OPERATIONS.pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/17GREENID%20belt%20conveyor%20(2).pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/16GREENID%20bucket%20elevators.pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/15GREENID%20%20Pipe%20Conveyor.pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/18%20GREENID%20SCREW%20CONVEYOR%20PERFORMANCE.pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/DIN%206935.pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/DIN%20EN%20ISO%2013920.pdf</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/DIN%20EN%20ISO%209013.pdf</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/DIN%20EN%2029692.pdf</loc>
+  <lastmod>2023-05-23T13:20:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/DIN%20EN%2025817.pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://greenid.ir/wpimages/DIN%207168.pdf</loc>
+  <lastmod>2023-05-23T13:20:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
