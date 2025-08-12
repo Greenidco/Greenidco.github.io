@@ -5,7 +5,7 @@ div.nav_171style, .nav_171style span, .nav_171style a, .nav_171style a:link, .na
 .nav_171style a.currentpage, .nav_171style a.currentpage:link, .nav_171style a.currentpage:visited, .nav_171style a.currentpage:hover, .nav_171style a.currentpage:active{text-decoration:none;}
 .nav_171style span.hassubmenu, .nav_171style a.hassubmenu, .nav_171style a.hassubmenu:link, .nav_171style a.hassubmenu:visited, .nav_171style a.hassubmenu:hover, .nav_171style a.hassubmenu:active{text-decoration:none;}
 .nav_171style span.open, .nav_171style a.open, .nav_171style a.open:link, .nav_171style a.open:visited, .nav_171style a.open:hover, .nav_171style a.open:active, .nav_171style a:hover, .nav_171style a:active{color:#ff0000;}
-table.nav_171style_level1{background:#dadada;padding:10px;border-collapse:separate;border-spacing:0;}
+table.nav_171style_level1{background:#dadada;border:0px none transparent;padding:10px;border-collapse:separate;border-spacing:0;}
 table.nav_171style_level1 :focus{outline:none;}
 .nav_171style_level1 span, .nav_171style_level1 a, .nav_171style_level1 a:link, .nav_171style_level1 a:visited, .nav_171style_level1 a:hover, .nav_171style_level1 a:active{background-color:transparent;color:#000000;font-family:Georgia,serif;font-size:12pt;font-weight:normal;text-align:left;font-variant:normal;text-transform:none;font-style:normal;letter-spacing:normal;padding:5px;}
 .nav_171style_level1 span.open, .nav_171style_level1 a.open:link, .nav_171style_level1 a.open:visited, .nav_171style_level1 a.open:hover, .nav_171style_level1 a.open:active{padding:5px;}

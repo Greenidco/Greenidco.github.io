@@ -1,27 +1,26 @@
 ﻿body {margin:0;padding:0;word-wrap:break-word;}
 img {border:none;}
-input:not([type=image]) {border:1px solid black;border-radius:2px;padding:0;}
+input {border:1px solid black;border-radius:2px;padding:0;}
+input[type=image] { border: none; }
 textarea {border:1px solid black;padding:0;}
 * {box-sizing:content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;-ms-box-sizing:content-box;}
 a:link {color:#393939;text-decoration:underline;}
-a:visited {color:#393939;text-decoration:underline;}
-a:hover {color:#393939;text-decoration:underline;}
 a:active {color:#393939;text-decoration:underline;}
-.Body { text-align:center;line-height:34.50px;margin:0px 0px 12px;text-indent:0.0px;font-family:"Times New Roman", serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:18.7px;vertical-align:0; }
-.Body-Text-1 { text-align:left;line-height:15.00px;margin:0px;text-indent:0.0px;font-family:"Arial", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:12.0px;vertical-align:0; }
-.Body-Text-12 { text-align:left;line-height:15.00px;margin:0px;text-indent:0.0px;font-family:"Arial", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:12.0px;vertical-align:0; }
-.Fine-Print { text-align:center;line-height:16.50px;margin:0px;text-indent:0.0px;font-family:"Tahoma", sans-serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:9.3px;vertical-align:0; }
-.H32 { text-align:left;line-height:23.00px;margin:6px 0px;text-indent:0.0px;font-family:"Times New Roman", serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:18.7px;vertical-align:0; }
+a:hover {color:#393939;text-decoration:underline;}
+a:visited {color:#393939;text-decoration:underline;}
+.DefaultParagraph { text-align:center;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;font-variant:normal;font-size:19.0px;vertical-align:0; }
+.Body { text-align:center;margin:0px 0px 12px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;font-variant:normal;font-size:19.0px;vertical-align:0; }
+.Body-Text-1 { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Arial", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;font-variant:normal;font-size:12.0px;vertical-align:0; }
+.Body-Text-12 { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Arial", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;font-variant:normal;font-size:12.0px;vertical-align:0; }
+.Fine-Print { text-align:center;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Tahoma", sans-serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;font-variant:normal;font-size:9.0px;vertical-align:0; }
+.H32 { text-align:left;margin:6px 0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;font-variant:normal;font-size:19.0px;vertical-align:0; }
 .H32:first-child { margin-top:0; }
-.H42 { text-align:left;line-height:20.00px;margin:6px 0px;text-indent:0.0px;font-family:"Times New Roman", serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.H42 { text-align:left;margin:6px 0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
 .H42:first-child { margin-top:0; }
-.Heading { text-align:center;line-height:121.50px;margin:0px;text-indent:0.0px;font-family:"Trebuchet MS", sans-serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:64.0px;vertical-align:0; }
-.Heading-1 { text-align:center;line-height:91.50px;margin:0px;text-indent:0.0px;font-family:"Trebuchet MS", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:48.0px;vertical-align:0; }
-.List-Paragraph { text-align:right;line-height:45.00px;margin:0px 32px 13px 0px;text-indent:-24.0px;font-family:"B Nazanin", serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:18.7px;vertical-align:0; }
-.List-Paragraph2 { text-align:right;line-height:45.00px;margin:0px 32px 13px 0px;text-indent:-24.0px;font-family:"B Nazanin", serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:18.7px;vertical-align:0; }
-.Normal { text-align:center;line-height:34.50px;margin:0px;text-indent:0.0px;font-family:"Times New Roman", serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:18.7px;vertical-align:0; }
-.Normal3 { text-align:center;line-height:34.50px;margin:0px;text-indent:0.0px;font-family:"Times New Roman", serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:18.7px;vertical-align:0; }
-.Sub-Heading { text-align:center;line-height:27.00px;margin:0px;text-indent:0.0px;font-family:"Trebuchet MS", sans-serif;font-style:normal;font-weight:700;color:#2e2e2e;background-color:transparent;text-decoration:none;font-variant:normal;font-size:13.3px;vertical-align:0; }
-.Code { font-family:"Courier New", monospace; }
-.Emphasis { font-style:italic; }
-.Strong { font-family:"Times New Roman", serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;text-decoration:none;font-variant:normal;font-size:18.7px;vertical-align:0; }
+.Heading { text-align:center;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Trebuchet MS", sans-serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;font-variant:normal;font-size:64.0px;vertical-align:0; }
+.Heading-1 { text-align:center;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Trebuchet MS", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;font-variant:normal;font-size:48.0px;vertical-align:0; }
+.List-Paragraph { text-align:right;margin:0px 32px 13px 0px;text-indent:-24.0px;line-height:1px;font-family:"B Nazanin", serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;font-variant:normal;font-size:19.0px;vertical-align:0; }
+.List-Paragraph2 { text-align:right;margin:0px 32px 13px 0px;text-indent:-24.0px;line-height:1px;font-family:"B Nazanin", serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;font-variant:normal;font-size:19.0px;vertical-align:0; }
+.Normal { text-align:center;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;font-variant:normal;font-size:19.0px;vertical-align:0; }
+.Normal3 { text-align:center;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:700;color:#ffffff;background-color:transparent;font-variant:normal;font-size:19.0px;vertical-align:0; }
+.Sub-Heading { text-align:center;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Trebuchet MS", sans-serif;font-style:normal;font-weight:700;color:#2e2e2e;background-color:transparent;font-variant:normal;font-size:13.0px;vertical-align:0; }
